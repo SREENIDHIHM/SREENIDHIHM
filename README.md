@@ -25,6 +25,8 @@ here iam mentioning the link of the git hub and its data
 https://github.com/SREENIDHIHM/SREENIDHIHM
 in this link contains the 
 https://github.com/SREENIDHIHM/SREENIDHIHM/blob/main/Fish_Weight_Prediction.ipynb
+https://github.com/SREENIDHIHM/SREENIDHIHM/blob/main/Vehicle_dataset_details.ipynb
+
 dataset
 calculated data
 screenshots of the dataset 
